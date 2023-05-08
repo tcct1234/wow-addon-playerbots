@@ -1,4 +1,4 @@
-# PlayerBots Addon
+# PlayerBots Addon 汉化
 
 In the WoW private server community there was a guy named ike3 who wrote a bot script that would create robot players in the game.  You could have hundreds of them, and they would run around and fight and do quests, you could party w/ them, and even better you could bring your alts and play with them too.
 
